@@ -10,6 +10,7 @@ let session = {
                 created: '2021-04-20T20:54:34.731Z',
                 public_path: 'https://fireboard-media.s3.amazonaws.com/<media_uuid>.jpg',
                 mime_type: 'image/jpeg',
+                session_cover: true, //doesn't exist if not session cover
                 media_uuid: '847dbde1-41c5-40db-a7f3-5d28f95fd939'//faked
               }
         ],
